@@ -2,7 +2,7 @@
 
 # Define beta server details (modify as necessary)
 BETA_SERVER="<beta_IP>"
-BETA_USER="<beta-User>"
+BETA_USER="ubuntu"
 BETA_DIR="/opt/application"
 TOMCAT_DIR="/opt/tomcat"
 TOMCAT_VERSION="9.0.58"
