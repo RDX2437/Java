@@ -2,7 +2,7 @@
 
 # Define production server details (modify as necessary)
 PROD_SERVER="<prod_ip>"
-PROD_USER="<deploy_user>"
+PROD_USER="ubuntu"
 PROD_DIR="/opt/application"
 TOMCAT_DIR="/opt/tomcat"
 TOMCAT_VERSION="9.0.58"
