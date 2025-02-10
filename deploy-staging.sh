@@ -2,7 +2,7 @@
 
 # Define staging server details (modify as necessary)
 STAGING_SERVER="<stage-IP>"
-STAGING_USER="<stage_user>"  #ubuntu
+STAGING_USER="ubuntu"  #ubuntu
 STAGING_DIR="/opt/application"
 TOMCAT_DIR="/opt/tomcat"
 TOMCAT_VERSION="9.0.58"
